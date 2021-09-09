@@ -1,1 +1,1 @@
-Test build for application at IBM Research
+Placeholder for an AR application using localisation functionality at IBM Research
